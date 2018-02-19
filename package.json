@@ -36,6 +36,7 @@
     "color": "3.0.0",
     "moment": "2.20.1",
     "@expo/vector-icons": "6.2.2",
-    "prop-types": "15.6.0"
+    "prop-types": "15.6.0",
+    "react-native-vector-icons": "4.5.0"
   }
 }

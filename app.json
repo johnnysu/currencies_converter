@@ -1,6 +1,8 @@
 {
   "expo": {
-    "sdkVersion": "25.0.0"
-  },
-  "slug": "CurrenciesConverter"
+    "name": "Currencies Converter",
+    "slug": "currencies-converter",
+    "sdkVersion": "25.0.0",
+    "privacy": "public"
+  }
 }
